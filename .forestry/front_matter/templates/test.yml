@@ -1,0 +1,9 @@
+---
+label: test
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: '33'
+  label: возраст
+  name: vozrast
